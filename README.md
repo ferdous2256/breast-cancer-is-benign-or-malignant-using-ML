@@ -1,2 +1,2 @@
-# breast cancer is benign or malignant using ML
+# Breast cancer is benign or malignant using ML
  In this project we tired to find if a person have benign or malignant cancer on their breast using machine learning algorithm. We used "Naive Bayes Classification" for this report and used a data lsit from kaggle.com. where our code studied the 80% of the list and predicted the result of  last 20%.  After that it we matched how much accuracy we get from our code.
